@@ -1,7 +1,7 @@
 
 <div align="center">
  <p>
-  <img src="https://www.edgeverve.com/wp-content/uploads/2018/12/AI-Artificial-Intelligence-hat-doesnt-sound-alright-460970-1.png" width = "1200" height="460"/>
+  <img src="https://www.edgeverve.com/wp-content/uploads/2018/12/AI-Artificial-Intelligence-hat-doesnt-sound-alright-460970-1.png" width = "1200" height="300"/>
  </p>
  <p>
   <em>
