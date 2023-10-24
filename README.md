@@ -6,7 +6,7 @@
  <p>
   <em>
     Hello, I am Lucas Pin a student from <a href="https://42.fr/en/what-is-42/the-42-method/"> <b>42 Telefonica foundation</b></a>. <br>
-    I am on a journey of continuous learning in <b>software development</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and all things related to <b>Data</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>fueled by my  <b>enthusiasm</b> for <b>new technologies</b> and <b>digital innovation</b>.
+    I am on a journey of continuous learning in <b>software development</b> 💻  and all things related to <b>Data📊,<br>fueled by my  <b>enthusiasm</b> for <b>new technologies</b> and <b>digital innovation</b>.
   </em> 
   <br>
  </p>
@@ -20,9 +20,7 @@
 
  ✔ 🔭 I’m currently working on forecasting project related to energy demand<br> 
  ✔ 🌱 I’m currently learning how to learn<br> 
- ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
- ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
- ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+ ✔ 🔍 I’m looking for new opportunities<br>
 </div> 
 
 ## &nbsp;My working tools...
