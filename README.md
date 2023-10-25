@@ -61,7 +61,7 @@
         <img src="https://github-trophies.vercel.app/?username=Lucas-pin&no-bg=true&no-frame=true&rank=SECRET&file=2&column=2&margin-w=5&margin-h=5" alt="Trofeos secretos" weight="200vw"/>
         <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-pin&theme=transparent&title_color=00000000&bg_color=00000000&hide_border=true&layout=compact&langs_count=6" height="130em" weight="100vw" alt="Lenguajes"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=15Galan&theme=transparent&hide_border=true&stroke=00000000&date_format=j%20M%5B%20Y%5D&mode=weekly&locale=es" height="130em" weight="100vw" alt="Racha"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-pin&theme=transparent&hide_border=true&stroke=00000000&date_format=j%20M%5B%20Y%5D&mode=weekly&locale=es" height="130em" weight="100vw" alt="Racha"/>
     </a>
 </div>
 
